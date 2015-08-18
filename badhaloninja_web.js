@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Web badhaloninja
 // @namespace     https://youtube.com/user/badhaloninja
-// GRANT         none    
+// @grant         none    
 // @description   Web badhaloninja
 // @author        badhaloninja
 // @homepage      https://youtube.com/user/badhaloninja
