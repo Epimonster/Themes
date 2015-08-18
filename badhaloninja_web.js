@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name          Web badhaloninja
 // @namespace     https://youtube.com/user/badhaloninja
-// @grant         none    
-// @description   Web badhaloninja
+// @grant         open    
+// @description   https://github.com/badhaloninja/Themes
 // @author        badhaloninja
 // @homepage      https://youtube.com/user/badhaloninja
 // @include       http://youtube.com/*
@@ -18,7 +18,7 @@
 // @include       http://*.reddit.com/*
 // @include       https://*.reddit.com/*
 // @run-at        document-start
-// @version       0.31
+// @version       0.30
 // ==/UserScript==
 (function() {var css = "";
 if (false || (document. DOMAIN == "youtube.com" || document.domain.substring(document.domain.indexOf(".youtube.com") + 1) == "youtube.com") || (document.location.href.indexOf("https://plus.googleapis.com/") == 0) || (document.location.href.indexOf("https://youtube.com/") == 0) || (document.location.href.indexOf("https://apis.google.com/") == 0) || (document.location.href.indexOf("http://youtube.com/") == 0))
