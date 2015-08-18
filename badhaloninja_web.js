@@ -18,7 +18,7 @@
 // @include       http://*.reddit.com/*
 // @include       https://*.reddit.com/*
 // @run-at        document-start
-// @version       0.30
+// @version       0.32
 // ==/UserScript==
 (function() {var css = "";
 if (false || (document. DOMAIN == "youtube.com" || document.domain.substring(document.domain.indexOf(".youtube.com") + 1) == "youtube.com") || (document.location.href.indexOf("https://plus.googleapis.com/") == 0) || (document.location.href.indexOf("https://youtube.com/") == 0) || (document.location.href.indexOf("https://apis.google.com/") == 0) || (document.location.href.indexOf("http://youtube.com/") == 0))
